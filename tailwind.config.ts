@@ -15,6 +15,16 @@ export default {
           "Segoe UI Symbol",
           "Noto Color Emoji",
         ],
+        syneMono: ['"Syne Mono"', 'monospace'], 
+      },
+      keyframes: {
+        slide: {
+          "0%": { transform: "translateX(100%)" },
+          "100%": { transform: "translateX(-100%)" },
+        },
+      },
+      animation: {
+        slide: "slide 20s linear infinite",
       },
     },
   },
