@@ -2,8 +2,7 @@
 
 Welcome to **The Beat of Space**, an immersive space exploration website built with **Remix** and **Three.js**! This project creates an interactive experience where users can explore a spacetime-inspired design with dynamic parallax effects.
 
-![The Beat of Space](/image.png)  
-*(Replace `your-image.png` with your project screenshot.)*
+![The Beat of Space](./public/image.png)  
 
 ---
 
